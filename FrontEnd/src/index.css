@@ -1,1 +1,8 @@
+@font-face {
+    font-family: ArchivoBlack;
+    src: url(./Fonts/Archivo_Black.zip);
+}
+
+
+
 @import "tailwindcss";
