@@ -1,13 +1,12 @@
 import { useState } from 'react';
-import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
-      <header>
-        <h1>ola mundo</h1>
+    <div className='bg-emerald-200'>
+      <header className='bg-yellow-200 text-3xl'>
+        <h1>Login</h1>
       </header>
     </div>
   )
